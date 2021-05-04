@@ -13,7 +13,7 @@
 [![StyleCI](https://styleci.io/repos/115325381/shield?branch=master)](https://styleci.io/repos/115325381)
 [![Codacy Branch Grade](https://img.shields.io/codacy/grade/655fc73e786543bd93ba84ec2723d588/master.svg?style=flat-square)](https://www.codacy.com/app/imajinyun/lumen-api/dashboard)
 [![PHP from Packagist](https://img.shields.io/packagist/php-v/imajinyun/lumen-api.svg?style=flat-square)](http://php.net/supported-versions.php)
-[![Version](https://img.shields.io/static/v1?label=version&message=%3E%3D7.4&color=%234F5893&labelColor=grey&logo=PHP&logoColor=blue&style=for-the-badge&link=https%3A%2F%2Fwww.php.net%2Fsupported-versions.php)](https://img.shields.io/static/v1?label=version&message=%3E%3D7.4&color=%234F5893&labelColor=grey&logo=PHP&logoColor=blue&style=for-the-badge&link=https%3A%2F%2Fwww.php.net%2Fsupported-versions.php)
+[![Version](https://img.shields.io/static/v1?label=version&message=%3E%3D7.4&color=%234F5893&labelColor=grey&logo=PHP&logoColor=blue&style=for-the-badge&link=https%3A%2F%2Fwww.php.net%2Fsupported-versions.php)](https%3A%2F%2Fwww.php.net%2Fsupported-versions.php)
 
 🌹 This is a RESTful API micro application based on Lumen framework.
 
